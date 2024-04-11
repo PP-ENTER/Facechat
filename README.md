@@ -1,2 +1,2 @@
-# Facechat
-ZEGOCLOUD 활용해서 영상통화 구현
+# VideoCall
+ZEGOCLOUD 활용해서 영상통화 가능한 서비스 
